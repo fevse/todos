@@ -1,1 +1,1 @@
-Простой проект ToDo сделаный Python фреймворке FastAPI
+Простой проект ToDo сделаный на Python фреймворке FastAPI
